@@ -5,7 +5,7 @@
 <nav class="bg-primary text-primary-foreground flex justify-between">
 	<NavbarLink url="/" testo="Home" />
 
-	<div>
+	<div class="flex">
 		<NavbarLink url="/chi-siamo" testo="Chi siamo" />
 		<NavbarLink url="/impatto" testo="Impatto" />
 		<NavbarLink url="/programma" testo="Programma" />
